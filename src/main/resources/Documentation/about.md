@@ -1,0 +1,1 @@
+This plugin allows to disable submits for branches, until a merge commit has been merge. When branches are being merged this can be used to avoid disruptions on the target branch.
